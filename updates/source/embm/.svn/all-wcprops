@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm
+END
+setembm.F
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/setembm.F
+END
+embm_rest.F
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/embm_rest.F
+END
+embm_tsi.F
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/embm_tsi.F
+END
+embm.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/embm.F
+END
+embm_tavg.F
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/embm_tavg.F
+END
+atm.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/atm.h
+END
+veg.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/veg.h
+END
+gvsbc.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/gvsbc.F
+END
+winds.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/winds.F
+END
+fluxes.F
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/fluxes.F
+END
+embmio.F
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/embmio.F
+END
+solve.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/embm/solve.F
+END

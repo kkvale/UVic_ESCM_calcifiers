@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom
+END
+checks.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/checks.F
+END
+clinic.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/clinic.F
+END
+mom_tbt.F
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/mom_tbt.F
+END
+loadmw.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/loadmw.F
+END
+isopyc.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/isopyc.F
+END
+vmixc.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/vmixc.F
+END
+fdifm.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/fdifm.h
+END
+hmixc.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/hmixc.F
+END
+stab.F
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fb2-bm_uvic/!svn/ver/1100/branches/kkvale/updates/calcifiers_prognostic_calcite/updates/source/mom/stab.F
+END
